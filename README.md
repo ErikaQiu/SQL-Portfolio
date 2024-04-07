@@ -6,4 +6,4 @@ Welcome to my SQL Repository! This repository is a curated collection of SQL pro
 🔘 Description: Analysis of COVID-19 infection rates, mortality, and vaccination progress globally.  
 🔘 Datasets: Includes VACCINATIONS and DEATHS tables.  
 🔘 Key Queries: Infection vs. death rates, vaccination impact analysis.  
-🔘 Location: /COVID-19-Data-Analysis
+🔘 Location: /COVID-Project
